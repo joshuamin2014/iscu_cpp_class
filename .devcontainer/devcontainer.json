@@ -1,0 +1,11 @@
+{
+  "name": "ISCU C++ Class",
+  "image": "mcr.microsoft.com/devcontainers/cpp:1-debian-12",
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "ms-vscode.cpptools"
+      ]
+    }
+  }
+}
